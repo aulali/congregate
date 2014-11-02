@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  How do you take your cat to the vet?
-date:   2014-10-29 19:54:18
-image: images/jack_cover.jpg
+title:  How do you live in Austin without a car?
+date:   2014-10-28 19:54:18
+image: images/austin_backdrop.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 

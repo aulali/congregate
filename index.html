@@ -3,5 +3,39 @@ layout: default
 ---
 
 <div class="home">
+  <div class="title">
+    <div class= "row">
+      <div class="column small-12">
+        <h1>wheels off!</h1>
+        <p>austin<p>
+      </div>
+    </div>
+  </div>
+  <div class="blurb">
+    <div class= "row">
+      <div class="column small-12">
+        <p>Welcome to Austin. Some days it's the city that you love. Some days it's a sweltering den of traffic iniquity. On these streets even the most gentle-hearted Sunday drivers lapse into a homicidal rage. Is there a better way? I don't know, but I can tell you about living without a car. This is a blog about finding your way around the problems of living in Austin without wheels.<p>
+      </div>
+    </div>
+  </div>
+  <div class="post-zone">
+    <div class= "row">
+        <ul class="post-list">
+          {% for post in site.posts %}
+            <li>
+              <div class="column small-12 large-4">
+                <img class="post-image" src={{ post.image }}/>
+              </div>
+              <div class="post-item column small-12 large-8">
+                <h2>
+                  <a class ="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>  
+                <p> {{ post.excerpt }} </p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+    </div>
+  <div>
 
 </div>

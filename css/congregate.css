@@ -1,0 +1,47 @@
+.title {
+  font-size: 1.2em;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3em;
+}
+
+.title h1, p {
+  font-family: 'Dawning of a New Day', cursive;
+}
+
+.blurb {
+  font-size: 1.2em;
+  padding: 3em;
+  background: rgba(255, 255, 255, .7);
+}
+
+.blurb p {
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'PT Serif', serif;
+}
+
+.post-zone {
+  background: rgba(34, 28, 18,.7); 
+  color: white;
+}
+
+.post-zone ul {
+  width: 75%;
+  margin: 0 auto;
+}
+
+li {
+    display: inline-block;
+}
+
+.post-image {
+  border: 2px solid;
+  border-radius: 25px;
+  margin: 2em;
+}
+
+.post-item {
+  padding: 2em;
+}
