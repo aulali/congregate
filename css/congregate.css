@@ -16,7 +16,6 @@
 }
 
 .blurb p {
-  width: 75%;
   text-align: center;
   margin: 0 auto;
   font-family: 'PT Serif', serif;
@@ -25,10 +24,14 @@
 .post-zone {
   background: rgba(34, 28, 18,.7); 
   color: white;
+  font-family: 'PT Serif', serif;
+}
+
+.post-zone p {
+  font-family: 'PT Serif', serif;
 }
 
 .post-zone ul {
-  width: 75%;
   margin: 0 auto;
 }
 
@@ -40,8 +43,14 @@ li {
   border: 2px solid;
   border-radius: 25px;
   margin: 2em;
+/*  max-width: 150px;*/
 }
 
 .post-item {
   padding: 2em;
+}
+
+.post-link {
+  color: white;
+  font-family: 'Dawning of a New Day', cursive;
 }
