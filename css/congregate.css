@@ -1,11 +1,13 @@
+/* index page */
+
 .title {
   font-size: 1.2em;
-  margin: 0 auto;
+  margin: 1em auto;
   text-align: center;
-  padding: 3em;
+  padding: 3.2em;
 }
 
-.title h1, p {
+.title h1, h3 {
   font-family: 'Dawning of a New Day', cursive;
 }
 
@@ -40,10 +42,9 @@ li {
 }
 
 .post-image {
-  border: 2px solid;
+  border: 1px solid;
   border-radius: 25px;
   margin: 2em;
-/*  max-width: 150px;*/
 }
 
 .post-item {
@@ -53,4 +54,41 @@ li {
 .post-link {
   color: white;
   font-family: 'Dawning of a New Day', cursive;
+}
+
+/* header */
+
+.naver {
+  background: rgba(255, 255, 255, .7);
+  padding: .5em;
+}
+
+.naver a {
+  color: black;
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 1.5em;
+  margin-right: 2em;
+}
+
+/* post template */
+.little-page {
+  border-radius: 25px;
+  background: rgba(255, 255, 255, .7);
+  padding: 1em;
+  margin: 1em;
+}
+
+.little-page p {
+  font-family: 'PT Serif', serif;
+}
+
+.little-page h1 {
+  font-family: 'Dawning of a New Day', cursive;
+}
+
+/* footer */
+.site-footer {
+  background: rgba(34, 28, 18,.9); 
+  padding: .5em;
+  color: white;
 }
