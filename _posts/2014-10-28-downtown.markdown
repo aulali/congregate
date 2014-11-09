@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  All around downtown
+title:  Getting around downtown
 date:   2014-10-28 19:54:18
 image: /images/austin_small.jpg
 ---
