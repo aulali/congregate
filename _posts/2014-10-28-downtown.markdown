@@ -2,7 +2,7 @@
 layout: post
 title:  Getting around downtown
 date:   2014-10-28 19:54:18
-image: /wheels_off/images/austin_small.jpg
+image: https://aulali.github.io/wheels_off/images/austin_small.jpg
 ---
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
