@@ -94,3 +94,9 @@ li {
   color: white;
   border-top: 1px solid #e8e8e8;
 }
+
+/* contact */
+
+form input {
+  margin-top: 2em;
+}

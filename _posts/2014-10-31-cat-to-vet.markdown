@@ -8,3 +8,9 @@ image:  https://aulali.github.io/wheels_off/images/jack_cover.jpg
 Your cat doesn't want to get in the car, anyway. And Cap Metro does not want your cat on the bus. See Cap Metro's policy about pets <a href="https://www.capmetro.org/rules/">here</a> under 'Common Courtesy'. No pets allowed unless they are guide or service animals.
 
 <img class="body-image" src="/wheels_off/images/jack_exam.jpg"/>
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
