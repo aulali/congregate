@@ -1,2 +1,2 @@
- $.backstretch("/images/austin_backdrop.jpg");
+ $.backstretch("/wheels_off/images/austin_backdrop.jpg");
  $("nav").naver();

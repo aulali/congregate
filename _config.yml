@@ -1,9 +1,9 @@
 # Site settings
 title: Wheels Off Austin!
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Living in Austin, TX without a car.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/wheels_off" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
