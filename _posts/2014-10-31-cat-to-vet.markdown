@@ -2,7 +2,7 @@
 layout: post
 title:  Adventures in carless cat care
 date:   2014-10-31 19:54:18
-image: /wheels_off/images/jack_cover.jpg
+image: ../images/jack_cover.jpg
 ---
 
 Your cat doesn't want to get in the car, anyway. And Cap Metro does not want your cat on the bus. See Cap Metro's policy about pets <a href="https://www.capmetro.org/rules/">here</a> under 'Common Courtesy'. No pets allowed unless they are guide or service animals.
