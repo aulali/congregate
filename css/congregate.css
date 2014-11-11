@@ -99,9 +99,16 @@ li {
 /* contact */
 
 form input {
-  margin-top: 2em;
+  border-radius: 5px;
+  margin-top: 1em;
 }
 
 form textarea {
   min-height: 100px;
+  border-radius: 5px;
+}
+
+form {
+  font-family: 'PT Serif', serif;
+  padding: 1em;
 }
